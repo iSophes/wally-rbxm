@@ -1,0 +1,12 @@
+{
+  "name": "Wally-RBXM",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Packages": {
+        "$path": "Packages"
+      }
+    }
+  }
+}
